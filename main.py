@@ -59,7 +59,7 @@ async def on_ready():
 
 
 def run_bot():
-    client.run("NDA0MzgxNzYzMDg4MDIzNTYz.DUVFVg.Tgz3E_9JZ6KpVfu8xRbZs0qOacY")
+    client.run("TOKEN")
 
 
 Thread(target=run_bot).start()
